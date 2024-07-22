@@ -1,1 +1,3 @@
-# 42-luxembourg-piscine
+# 42-Luxembourg-Piscine
+
+I hate norminette :)
