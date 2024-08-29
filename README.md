@@ -1,3 +1,2 @@
-# 42-Luxembourg-Piscine
-
-I hate norminette :)
+# 42-Piscine-Lux
+All my projects.
